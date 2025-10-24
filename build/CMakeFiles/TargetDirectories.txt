@@ -1,0 +1,3 @@
+/workspaces/PAOO/build/CMakeFiles/p.dir
+/workspaces/PAOO/build/CMakeFiles/edit_cache.dir
+/workspaces/PAOO/build/CMakeFiles/rebuild_cache.dir
